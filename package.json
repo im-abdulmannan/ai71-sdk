@@ -1,0 +1,34 @@
+{
+  "name": "ai71-sdk",
+  "version": "1.0.0",
+  "description": "A Node.js SDK for the AI71 API",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ai71",
+    "sdk",
+    "api",
+    "node"
+  ],
+  "author": "Abdul Mannan",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "express": "^4.19.2"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/im-abdulmannan/ai71-sdk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/im-abdulmannan/ai71-sdk/issues"
+  },
+  "homepage": "https://github.com/im-abdulmannan/ai71-sdk#readme"
+}
